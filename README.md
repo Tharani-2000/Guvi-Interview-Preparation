@@ -1,6 +1,6 @@
 # Learning Resources
 
-Welcome to the Learning Resources repository! Here, you will find detailed tutorials and guides on various topics to help you learn and understand different technologies and concepts.
+📚 Welcome to the Learning Resources repository! Here, you will find detailed tutorials and guides on various topics to help you learn and understand different technologies and concepts.
 
 ## Table of Contents
 
@@ -40,10 +40,10 @@ Here, you'll find a beginner-friendly guide to Python Machine Learning, covering
 
 - [Python Machine Learning Tutorial](python_machine_learning_tutorial.md)
 
-## Contributing
+## 🤝 Contributing
 
 If you find any issues or have suggestions for improving these tutorials, feel free to open an issue or pull request. Your contributions are greatly appreciated!
 
-## License
+## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
