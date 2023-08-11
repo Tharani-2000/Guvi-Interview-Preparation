@@ -352,3 +352,5 @@ def dashboard():
 ---
 
 Congratulations! You've completed the Python Flask Intermediate Tutorial. You've learned about routes, templates, forms, database integration, and user authentication using Flask. With this knowledge, you can
+
+build more complex web applications and continue exploring Flask's extensive ecosystem of extensions and libraries.
