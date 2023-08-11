@@ -43,7 +43,3 @@ Here, you'll find a beginner-friendly guide to Python Machine Learning, covering
 ## 🤝 Contributing
 
 If you find any issues or have suggestions for improving these tutorials, feel free to open an issue or pull request. Your contributions are greatly appreciated!
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
